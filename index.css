@@ -1,10 +1,12 @@
 
 .main-content{
-background-color:#fff;
-height: 100em;
+background-color:#cccccc;
+height: 150em;
 border-radius: 4px;
+margin: auto;
 }
 .navigation{
+    margin-top: 5px;
     color: green;
     font-size:x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -44,26 +46,49 @@ img{
 #p1{
     display: inline;
 }
+.introduction{
+    border:2px solid red;
+    padding: 20px;
+    height: 25em;
+    border-radius: 4px;
+}
 .intro{
+    width: 46%;
     background-color: powderblue;
     border-radius: 2px;
     border: 2px solid rgb(100, 169, 169);
     padding: 5px;
-    margin: 5px;
-}
-.intro2{
-    font-size: 20px;
-    width: 600px;
-    display:block;
+    float: left;
+    margin-left: 40px;
+    height: 17em;
+    font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
-    font: 400;
+}
+h2{
+    border-bottom: 2px red dotted;
+    text-align: center;
+}
+ol li{
+    display: block;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+h3{
+    border-bottom:3px darksalmon solid ;
+    text-align: center;
+}
+#intro1{
+    background-color:darkslategrey
+    
 }
 .footer1{
     background-color:grey;
     color: darkgreen;
     text-align: center;
     font: italic;
-    padding:20px;
+    padding:2px;
     height: 50px;
     
 

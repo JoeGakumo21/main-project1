@@ -1,5 +1,6 @@
+
 .main-content{
-background-color: #4e4e50;
+background-color:#fff;
 height: 100em;
 border-radius: 4px;
 }
@@ -8,7 +9,7 @@ border-radius: 4px;
     font-size:x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border:2px solid cyan;
-    border-radius: 3px;
+    border-radius: 20px;
     text-align: right;
     }
    ul{
@@ -18,41 +19,63 @@ border-radius: 4px;
         display: inline;
         padding: 20px;
         color: green;
+       
     }
     a:hover{
         cursor: pointer;
-        background-color: yellow;
+        background-color: rgb(0, 225, 255);
         font: xx-large;
         text-decoration: none;
+        border-radius: 15px;
 
     }
 .logo{
     float: left;
-    background-color: honeydew;
+    background-color: green;
     margin-left: 10px;
     border-radius: 2px;
     color: indigo;
 }
-
-
-
-
-
-
+img{
+    height: 80em;
+    width: 100%;
+    border-radius: 10px;
+}
+#p1{
+    display: inline;
+}
+.intro{
+    background-color: powderblue;
+    border-radius: 2px;
+    border: 2px solid rgb(100, 169, 169);
+    padding: 5px;
+    margin: 5px;
+}
+.intro2{
+    font-size: 20px;
+    width: 600px;
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    font: 400;
+}
 .footer1{
-    background-color:#e6e6e6;
+    background-color:grey;
     color: darkgreen;
     text-align: center;
     font: italic;
-    padding: 10px;
+    padding:20px;
+    height: 50px;
+    
 
 }
 span{
-    color: red;
+    color:black;
 }
 .joe{
-    color: rgb(247, 0, 255);
+    color:#fff;
 }
 p{
     display: inline;
+   padding: 5px;
+    font: 30px;
 }

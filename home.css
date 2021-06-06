@@ -1,3 +1,7 @@
 body{
-    background-color: #cccccc;
+    background: "images/beautiful-name.png";
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
 }

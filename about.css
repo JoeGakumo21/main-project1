@@ -1,0 +1,153 @@
+body{
+    background-image: url("https://youtu.be/6-EOfIleVJk?t=52");
+}
+.main-content{
+background-image: c;
+background-color:#cccccc;
+height: 130em;
+border-radius: 4px;
+margin: auto;
+}
+.navigation{
+    margin-top: 5px;
+    color: green;
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:2px solid cyan;
+    border-radius: 20px;
+    text-align: right;
+    }
+   ul{
+        text-decoration: none;
+    }
+    li{
+        display: inline;
+        padding: 20px;
+        color: green;
+       
+    }
+    a:hover{
+        cursor: pointer;
+        background-color: rgb(0, 225, 255);
+        font: xx-large;
+        text-decoration: none;
+        border-radius: 15px;
+
+    }
+.logo{
+    float: left;
+    background-color: green;
+    margin-left: 10px;
+    border-radius: 2px;
+    color: indigo;
+}
+img{
+    height: 80em;
+    width:100%;
+    border-radius: 10px;
+    border: 3px wavvy seagreen;
+    
+}
+.marquee{
+    float: right;
+    border: 3px solid green;
+    width: 45em;
+    border-radius: 5px;
+    height: 80em;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 20px;
+    display: block;
+    overflow: auto;
+}
+#bio{
+    border-bottom:3px solid grey;
+}
+.bio{
+    height: 350px;
+    width: 350px;
+    padding-left: 0px;
+    display: block;
+
+}
+.taya{
+    font-style: italic;
+    font-size: 25px;
+    color: seagreen;
+}
+.taya1{
+    color: slateblue;
+    font-size: 20px;
+    
+}
+#u{
+    border-bottom: 3px solid green;
+}
+#p1{
+    display: inline;
+}
+.introduction{
+    border:2px solid red;
+    padding: 20px;
+    height: 25em;
+    border-radius: 4px;
+}
+.intro{
+    margin: 10px;
+    background-color: powderblue;
+    border-radius: 2px;
+    border: 2px solid rgb(100, 169, 169);
+    padding: 5px;
+    float: left;
+    height: 17em;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    border-bottom: 2px red dotted;
+    text-align: center;
+}
+ol li{
+    display: block;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+h3{
+    border-bottom:3px darksalmon solid ;
+    text-align: center;
+}
+#intro1{
+    background-color:darkslategrey
+    
+}
+.intro2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cen{
+    text-align: center;
+}
+.footer1{
+    background-color:grey;
+    color: darkgreen;
+    text-align: center;
+    font: italic;
+    padding:10px;
+    height: 50px;
+    margin: 10px;
+    
+
+}
+span{
+    color:black;
+}
+.joe{
+    color:#fff;
+}
+p{
+    display: inline;
+   padding: 5px;
+    font: 30px;
+}

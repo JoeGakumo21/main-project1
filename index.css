@@ -1,8 +1,10 @@
 body{
-    background-image: url("https://youtu.be/6-EOfIleVJk?t=52");
+    background-image: url("image/brooke.jpg");
 }
 .main-content{
-background-image: c;
+background-image: url("image/brooke.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 background-color:#cccccc;
 height: 130em;
 border-radius: 4px;
@@ -34,6 +36,9 @@ margin: auto;
         border-radius: 15px;
 
     }
+    h1{
+        color: darkgreen;
+    }
 .logo{
     float: left;
     background-color: green;
@@ -47,6 +52,9 @@ img{
     border-radius: 10px;
     border: 3px wavvy seagreen;
     
+}
+#members{
+    color: red;
 }
 .marquee{
     float: right;
@@ -76,12 +84,17 @@ img{
     color: seagreen;
 }
 .taya1{
-    color: slateblue;
+    
+    color: red;
     font-size: 20px;
     
 }
+.b{
+    color: deepskyblue;
+}
 #u{
     border-bottom: 3px solid green;
+    background-color: papayawhip;
 }
 #p1{
     display: inline;
@@ -135,7 +148,7 @@ h3{
     text-align: center;
     font: italic;
     padding:10px;
-    height: 50px;
+    height: 100px;
     margin: 10px;
     
 
@@ -148,6 +161,6 @@ span{
 }
 p{
     display: inline;
-   padding: 5px;
-    font: 30px;
+   padding: 20px;
+    font-size: 30px;
 }

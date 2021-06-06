@@ -1,0 +1,58 @@
+body{
+    background-image: url("image/brooke.jpg");
+}
+.elev{
+    height: 30em;
+    background-color: rgb(41, 181, 185);
+    border: 3px solid black;
+    margin: 4px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.elevation{
+    border: 3px solid white;
+    font-size: 20px;
+    font-family: monospace;
+    font: oblique;
+    color: green;
+}
+.intro2{
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 96%;
+    margin: 20px;
+}
+.footer1{
+    background-color:grey;
+    color: darkgreen;
+    font: italic;
+    padding:10px;
+    height: 100px;
+    margin: 10px;
+    
+
+}
+.song{
+    color: green;
+    margin-left: 300px;
+}
+a:hover{
+    background-color: violet;
+    font-size: 30px;
+    text-decoration: none;
+}
+span{
+    color:black;
+}
+.joe{
+    color:#fff;
+}
+p{
+    display: inline;
+   padding: 20px;
+   font-size: 30px;
+}
+h3{
+    border-bottom: 3px solid red;
+
+}

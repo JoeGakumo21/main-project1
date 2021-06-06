@@ -11,13 +11,13 @@ border-radius: 4px;
 margin: auto;
 }
 .navigation{
-    margin-top: -5px;
     color: green;
     font-size:x-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border:2px solid cyan;
     border-radius: 20px;
     text-align: right;
+    height: auto;
     }
    ul{
         text-decoration: none;
@@ -34,17 +34,21 @@ margin: auto;
         font: xx-large;
         text-decoration: none;
         border-radius: 15px;
+        font-size: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     }
     h1{
-        color: darkgreen;
+        color: white;
     }
 .logo{
     float: left;
+    text-decoration: none;
     background-color: green;
-    margin-left: 10px;
     border-radius: 2px;
-    color: indigo;
+    border-radius: 2px solid black;
+    color: red;
+    font-size: 30px;
 }
 img{
     height: 80em;

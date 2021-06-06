@@ -15,14 +15,13 @@ margin: auto;
     font-family: 'Times New Roman', Times, serif;
 
 }
-    #icon{
+    .icon{
         border: 3px solid green;
         cursor: pointer;
-        width: 30px;
+        width: auto;
         text-align: left;
-        display: inline;
-        margin-left: 1500px;
         border-radius: 5px;
+       float:right;
        
     }
     a:hover{
@@ -36,10 +35,11 @@ margin: auto;
     width: 100%;
     border: 2px solid darkslategray;
     border-radius: 5px;
-    height: 30em;
+    height: auto;
     font-size: 15px;
     display: block;
-    overflow: auto;
+    background-color: #cddead;
+
 }
 #bio{
     border-bottom:3px solid grey;
@@ -120,7 +120,7 @@ h3{
     text-align: center;
     font: italic;
     padding:10px;
-    height: 50px;
+    height: auto;
     margin: 10px;
     
 
